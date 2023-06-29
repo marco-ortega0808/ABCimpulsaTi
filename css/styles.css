@@ -81,28 +81,7 @@ p  {
     left: 85%;
 }
 /* -------------------section------------------ */
-.contenedor{
-    position: relative;
-    display: inline-block;
-    text-align: center;
-    padding: 0;
-}
 
-.color-text {
-    color: #000;
-}
-
-.texto-img{
-    position: absolute;
-    top: 141px;
-    left: 47px;
-    color: #0095f8;
-    font-size: 50px;
-}
-
-.img-size {
-    width: 65%;
-}
 
 .contenido-consecuencias {
     background-color: #5b00d8 !important;
@@ -145,22 +124,6 @@ p  {
     width: 65px;
     z-index: 15;
 }
-
-.lista {
-    margin: 10px;
-    font-size: 22px;
-}
-
-.lista_conse {
-    text-align: center;
-    color: #fff;
-    margin: auto;
-}
-
-.mr-4{
-    margin: 0px auto;
-}
-
 /* ---------------Footer------------- */
 footer {
     background-color: #005995;
