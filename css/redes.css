@@ -1,0 +1,66 @@
+.red{
+	position: fixed;
+	top: 200px;
+	z-index: 100;
+	left: -10px;
+}
+#facebook a{
+	background: #3b5998;
+	padding: 11px 24px;
+	color: #fff;
+	text-decoration: none;
+	width: 30px;
+	transition: all .4s ease;
+}
+#facebook a:hover{
+	background: #000;
+	padding: 10px 50px;
+}
+#youtube a{
+	background: #bb0000;
+	padding: 11px 24px;
+	color: #fff;
+	text-decoration: none;
+	width: 30px;
+	transition: all .4s ease;
+}
+#youtube a:hover{
+	background: #000;
+	padding: 10px 50px;
+}
+#twitter a{
+	background: #55acee;
+	padding: 11px 24px;
+	color: #fff;
+	text-decoration: none;
+	width: 30px;
+	transition: all .4s ease;
+}
+#twitter a:hover{
+	background: #000;
+	padding: 10px 50px;
+}
+#correo a{
+	background: #0a66c2;
+	padding: 11px 24px;
+	color: #fff;
+	text-decoration: none;
+	width: 30px;
+	transition: all .4s ease;
+}
+#correo a:hover{
+	background: #000;
+	padding: 10px 50px;
+}
+#tiktok a{
+	background: #000000;
+	padding: 11px 24px;
+	color: #fff;
+	text-decoration: none;
+	width: 30px;
+	transition: all .4s ease;
+}
+#tiktok a:hover{
+	background: #000;
+	padding: 10px 50px;
+}
