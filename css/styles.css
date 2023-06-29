@@ -1,0 +1,217 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: #ffffff;
+}
+
+a, .button {
+    -webkit-transition: all 0.3s ease-out 0s;
+    -moz-transition: all 0.3s ease-out 0s;
+    -ms-transition: all 0.3s ease-out 0s;
+    -o-transition: all 0.3s ease-out 0s;
+    transition: all 0.3s ease-out 0s;
+    text-decoration: none;
+  }
+
+li {
+    list-style: none;
+}
+a:focus, a:hover {
+    color: #524d8b;
+    text-decoration: none;
+  }
+
+p  {
+    font-size: 20px;
+    font-weight: normal;
+    line-height: 28px;
+    color: #ffffff;
+    margin-bottom: 15px;
+}
+
+/* -----------------header----------------- */
+
+
+.logo-slash{
+    width: 200px;
+    position: absolute;
+    left: 3%;
+    top: 25px;
+    z-index: 1;
+}
+
+.barra {
+    padding: 0;
+    margin-top: 15px;
+    height: 100px;
+}
+
+.hover_link a {
+    font-size: 25px;
+}
+
+.menu {
+    position: absolute;
+    left: 45%;
+    top: 35px;
+    z-index: 1;
+    width: 425px;
+}
+
+.hover_link{
+    padding: 0 !important;
+}
+
+.hover_link a{
+    padding: 15px 5px;
+}
+
+.hover_link a:hover{
+    background: #0095f8;
+}
+
+#logo-sigo {
+    width: 190px;
+    height: 105px;
+    position: absolute;
+    top: 10px;
+    left: 85%;
+}
+/* -------------------section------------------ */
+.contenedor{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    padding: 0;
+}
+
+.color-text {
+    color: #000;
+}
+
+.texto-img{
+    position: absolute;
+    top: 141px;
+    left: 47px;
+    color: #0095f8;
+    font-size: 50px;
+}
+
+.img-size {
+    width: 65%;
+}
+
+.contenido-consecuencias {
+    background-color: #5b00d8 !important;
+}
+
+.ventana_flotante {
+    display: none;
+    background: none repeat scroll 0 0 #2febb3;
+    border: 1px solid #000;
+    border-radius: 6px;
+    bottom: 123px;
+    left: 68.5%;
+    margin: 10px auto;
+    padding: 10px 0;
+    position: fixed;
+    text-align: center;
+    width: 290px;
+    z-index: 15;
+    animation-duration: 3s;
+    animation-name: slidein;
+}
+
+.call-phone {
+    color: #40c351;
+    font-size: 67px;
+    bottom: 110px;
+    left: 89.5%;
+    position: fixed;
+    text-align: center;
+    width: auto;
+    z-index: 15;
+    padding: 0;
+}
+
+.chat-whats {
+    bottom: 50px;
+    left: 90%;
+    position: fixed;
+    text-align: center;
+    width: 65px;
+    z-index: 15;
+}
+
+.lista {
+    margin: 10px;
+    font-size: 22px;
+}
+
+.lista_conse {
+    text-align: center;
+    color: #fff;
+    margin: auto;
+}
+
+.mr-4{
+    margin: 0px auto;
+}
+
+/* ---------------Footer------------- */
+footer {
+    background-color: #005995;
+    color: #ffffff !important;
+    padding: 40px 40px 0px;
+}
+
+ul {
+    margin: 0px !important;
+    padding: 0px !important;
+}
+
+.footer__title {
+    margin-bottom: 23px;
+}
+
+.footer__copyright  {
+    border-top: 2px solid #3783b3;
+}
+
+.font-cielo {
+    color: #33b6e9;
+}
+
+.font-bco {
+    color: #ffffff;
+}
+.pie-left {
+    text-align: left;
+  }
+
+.footer__menu ul li a {
+    display: block;
+    color: #ffffff;
+    margin-bottom: 8px;
+    font-size: 15px;
+}
+
+.footer__social ul li {
+    display: inline-block;
+    font-size: 18px;
+    font-weight: 700;
+    color: #fff;
+    margin-right: 20px;
+  }
+
+.footer__menu ul li a:hover {
+    color: #33b6e9;
+}
+ 
+.font14 {
+    font-size: 14px;
+    margin-bottom: 0;
+}
