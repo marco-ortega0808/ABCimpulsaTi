@@ -20,7 +20,7 @@ li {
     list-style: none;
 }
 a:focus, a:hover {
-    color: #524d8b;
+    color: #004a81;
     text-decoration: none;
   }
 
@@ -41,6 +41,9 @@ p  {
 .hover_link a {
     font-size: 25px;
 }
+.color_menu  {
+    color: #191970;
+}
 
 .hover_link{
     padding: 0 !important;
@@ -53,14 +56,25 @@ p  {
 .hover_link a:hover{
     background: #0095f8;
 }
-    
+
 /* -------------------section------------------ */
 
+.carousel-indicators [data-bs-target]{
+    background-color: #000;
+}
 
 .contenido-consecuencias {
     background-color: #5b00d8 !important;
 }
 
+.size-carousel {    
+    margin: 0 100px;
+}
+
+.carousel-item {
+    height: 700px;
+}
+/*--------------------Ventanas flotantes------------------*/
 .ventana_flotante {
     display: none;
     background: none repeat scroll 0 0 #2febb3;
