@@ -3,8 +3,30 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+@font-face {
+    font-family: 'titilli-Bold';
+    src: url('../font/TitilliumWeb-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'titilli-Light';
+    src: url('../font/TitilliumWeb-Light.ttf');
+}
+
+@font-face {
+    font-family: 'titilli-Regular';
+    src: url('../font/TitilliumWeb-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'titilli-Semi';
+    src: url('../font/TitilliumWeb-SemiBold.ttf');
+}
+
 body {
     background-color: #ffffff;
+    font-family: 'titilli-Semi', 'Courier New', Courier, monospace;
 }
 
 a, .button {
