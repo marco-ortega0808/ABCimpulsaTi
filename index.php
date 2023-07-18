@@ -13,7 +13,9 @@
 </head>
 <body>
     <div class="container-fluid">
-        
+        <?php
+            require "header.php";
+        ?>
         <section>
             <div class="row">
                 <div class="contenedor">
