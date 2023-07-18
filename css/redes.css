@@ -2,7 +2,7 @@
 	position: fixed;
 	top: 200px;
 	z-index: 100;
-	left: -10px;
+	left: -20px;
 }
 #facebook a{
 	background: #3b5998;
@@ -13,7 +13,7 @@
 	transition: all .4s ease;
 }
 #facebook a:hover{
-	background: #000;
+	background: #3b5998;
 	padding: 10px 50px;
 }
 #youtube a{
@@ -25,7 +25,7 @@
 	transition: all .4s ease;
 }
 #youtube a:hover{
-	background: #000;
+	background: #bb0000;
 	padding: 10px 50px;
 }
 
@@ -38,7 +38,7 @@
 	transition: all .4s ease;
 }
 #instagram a:hover{
-	background: #000;
+	background: #E1306C;
 	padding: 10px 50px;
 }
 
@@ -51,7 +51,7 @@
 	transition: all .4s ease;
 }
 #twitter a:hover{
-	background: #000;
+	background: #55acee;
 	padding: 10px 50px;
 }
 #correo a{
@@ -63,7 +63,7 @@
 	transition: all .4s ease;
 }
 #correo a:hover{
-	background: #000;
+	background: #0a66c2;
 	padding: 10px 50px;
 }
 #tiktok a{
