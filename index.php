@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="/img/logo.ico" />
     <link rel="stylesheet" href="./css/bootstrap.css" type="text/css">
     <link rel="stylesheet" href="./css/styles.css" type="text/css">
     <link rel="stylesheet" href="./css/responsivo.css" type="text/css">
@@ -28,23 +29,23 @@
                             <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
                             </div>
                             <div class="carousel-inner">
-                            <div class="carousel-item active">
-                                <img src="/img/Nuevo-reglas.jpg" class="d-block w-100" alt="...">
-                            </div>
+                                <div class="carousel-item active">
+                                    <img src="/img/Nuevo-reglas.jpg" class="d-block w-100" alt="...">
+                                </div>
                             <div class="carousel-item">
                                 <img src="/img/invet.jpg" class="d-block w-100" alt="...">
                             </div>
-                            <div class="carousel-item">
-                                <img src="/img/portada.jpg" class="d-block w-100" alt="...">
-                            </div>
+                                <div class="carousel-item">
+                                    <img src="/img/portada.jpg" class="d-block w-100" alt="...">
+                                </div>
                             </div>
                             <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
-                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                            <span class="visually-hidden">Previous</span>
+                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Previous</span>
                             </button>
                             <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
-                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                            <span class="visually-hidden">Next</span>
+                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Next</span>
                             </button>
                         </div>
                         
@@ -129,38 +130,9 @@
             </section>
     </div>
 </body>
-<!-- --------------------------footer---------------------- -->
-<footer class="footer mt-3">
-    
-    <div class="footer__top pt-80 pb-40">
-        <div class="container-fluid">
-            <div class="row">
-                <img id="asociado" class="col-4 " src="img/Socio-de-negocio_Autorizado.png" alt="">
-                <div class="col-lg-3 col-md-6 col-sm-6 mb-30">
-                    <div class="footer__widget pie-left">
-                        <p class="footer--text mb-20 font-bco">
-                        <img src="./img/logo-white.png" alt="" class="footer--logo mb-20" width="190">
-                        <!--GRUPO SLASH CORE S. A. de C. V.<br>-->
-                        Parque de Zoquiapan # 5,<br class="hidden-sm hidden-md hidden-lg"> El parque, C.P. 53398<br>
-Naucalpan de Juárez, Edo. de Méx. Mauricio Popoca<br class="hidden-sm hidden-md hidden-lg"><span class="font-cielo">Llámanos: <a href="tel://525553573257">55 5357 3257</a> </span><br>
-                        <a class="text-break" href="mailto:atencionaclientes@slash.com.mx">atencionaclientes@slash.com.mx</a>
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="container">
-        <div class="row">
-            <div class=" footer__copyright col-sm-12 pt-4 pb-4">
-                <div class="text-center">
-                    <p class="font14">© Copyright 2023 Página Desarrollada por Ing. Marco Antonio Ortega Trejo</p>
-                </div>
-            </div>
-        </div>
-    </div>
-
-</footer>
+<?php
+    require "footer.php";
+?>
 <script src="js/bootstrap.js"></script>
 <script src="https://kit.fontawesome.com/977320a5c6.js" crossorigin="anonymous"></script>
 <script src="/js/form.js"></script>
