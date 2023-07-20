@@ -29,6 +29,11 @@ body {
     font-family: 'titilli-Semi', 'Courier New', Courier, monospace;
 }
 
+.cotenedor-menu {
+    width: 1250px;
+    margin: 0 auto;
+}
+
 a, .button {
     -webkit-transition: all 0.3s ease-out 0s;
     -moz-transition: all 0.3s ease-out 0s;

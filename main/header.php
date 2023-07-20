@@ -1,6 +1,6 @@
         <header>
             <div class="header-conte row mt-3 mb-3">
-                <nav class="navbar navbar-expand-lg navbar-light">
+                <nav class="navbar navbar-expand-lg navbar-light cotenedor-menu">
                     <div class="container-fluid row">
                         <a class="navbar-brand col-lg-2 col-4" href="#">
                             <img src="img/logo.png" class="img-fluid" alt="Logo ABC Impulsa Ti">
