@@ -30,6 +30,9 @@
         </p>
     </div>
 </body>
+    <?php
+        require "main/scripts.php";
+    ?>
 <footer class="footer mt-3">
     <?php
         require "main/footer.php";

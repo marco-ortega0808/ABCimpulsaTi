@@ -122,9 +122,9 @@
             </section>
     </div>
 </body>
-<script src="js/bootstrap.js"></script>
-<script src="https://kit.fontawesome.com/977320a5c6.js" crossorigin="anonymous"></script>
-<script src="/js/form.js"></script>
+    <?php
+        require "main/scripts.php";
+    ?>
 <footer class="footer mt-3">
     <?php
         require "main/footer.php";
