@@ -15,9 +15,116 @@
         ?>
         <h1>Blog</h1>
         <div class="row">
-            <li class="col-3">Tema a tratar</li> 
+            <li class="col-3 h4">Articulos</li> 
             <hr class="col-7" style="margin: auto 0;"> 
             <a class="col-2">Ver más</a>
+        </div>
+        <div class="row">
+            <div class="col-4">
+                <div class="card">
+                    <img src="/img/evento.jpeg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Nuestro proximo evento</h5>
+                        <p class="card-text text-secondary">Esta tiene que ser una descripción sobre el evento o del blog.</p>
+                        <!-- <p class="text-card">
+                            <small class="text-muted">1 disponibles</small>
+                        </p> -->
+                        <a href="#" class="btn color-btn">Ver más</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-4">
+                <div class="card">
+                    <img src="/img/evento.jpeg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Nuestro proximo evento</h5>
+                        <p class="card-text text-secondary">Esta tiene que ser una descripción sobre el evento o del blog.</p>
+                        <!-- <p class="text-card">
+                            <small class="text-muted">1 disponibles</small>
+                        </p> -->
+                        <a href="#" class="btn color-btn">Ver más</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-4">
+                <div class="card">
+                    <img src="/img/evento.jpeg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Nuestro proximo evento</h5>
+                        <p class="card-text text-secondary">Esta tiene que ser una descripción sobre el evento o del blog.</p>
+                        <!-- <p class="text-card">
+                            <small class="text-muted">1 disponibles</small>
+                        </p> -->
+                        <a href="#" class="btn color-btn">Ver más</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- -------------------------Eventos---------------------------- -->
+        <div class="row mt-3 mb-2">
+            <li class="col-3 h4">Eventos</li> 
+            <hr class="col-7" style="margin: auto 0;"> 
+            <a class="col-2">Ver más</a>
+        </div>
+        
+        <div class="row">
+            <div class="col-4">
+                <div class="card">
+                    <img src="/img/evento.jpeg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Nuestro proximo evento</h5>
+                        <p class="card-text text-secondary">Esta tiene que ser una descripción sobre el evento o del blog.</p>
+                        <p class="text-card">
+                            <small class="text-muted">Fecha 13/07/2023</small>
+                        </p>
+                        <div class="cart-text">
+                            <label for="preci">$550</label>
+                        </div>    
+                        <p class="text-card">
+                            <small class="text-muted">1 disponibles</small>
+                        </p>
+                        <a href="#" class="btn color-btn">Ver más</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-4">
+                <div class="card">
+                    <img src="/img/evento.jpeg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Nuestro proximo evento</h5>
+                        <p class="card-text text-secondary">Esta tiene que ser una descripción sobre el evento o del blog.</p>
+                        <p class="text-card">
+                            <small class="text-muted">Fecha 13/07/2023</small>
+                        </p>
+                        <div class="cart-text">
+                            <label for="preci">$550</label>
+                        </div>   
+                        <p class="text-card">
+                            <small class="text-muted">1 disponibles</small>
+                        </p>
+                        <a href="#" class="btn color-btn">Ver más</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-4">
+                <div class="card">
+                    <img src="/img/evento.jpeg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Nuestro proximo evento</h5>
+                        <p class="card-text text-secondary">Esta tiene que ser una descripción sobre el evento o del blog.</p>
+                        <p class="text-card">
+                            <small class="text-muted">Fecha 13/07/2023</small>
+                        </p>
+                        <div class="cart-text">
+                            <label for="preci">$550</label>
+                        </div>    
+                        <p class="text-card">
+                            <small class="text-muted">1 disponibles</small>
+                        </p>
+                        <a href="#" class="btn color-btn">Ver más</a>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </body>
