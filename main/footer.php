@@ -1,7 +1,6 @@
 
 <!-- --------------------------footer---------------------- -->
-<footer class="footer mt-3">
-    
+
     <div class="footer__top pt-80 pb-40">
         <div class="container-fluid">
             <div class="row">
@@ -29,4 +28,3 @@ Naucalpan de Juárez, Edo. de Méx. Mauricio Popoca<br class="hidden-sm hidden-m
             </div>
         </div>
     </div>
-</footer>

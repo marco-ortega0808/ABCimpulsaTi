@@ -9,7 +9,7 @@
     <title>Nosotros</title>
 </head>
 <body>
-    <div class="container-fluid">
+    <div class="container-fluid contenedor-bod">
         <?php
             require "main/header.php";
         ?>
@@ -30,7 +30,9 @@
         </p>
     </div>
 </body>
-<?php
-    require "main/footer.php";
-?>
+<footer class="footer mt-3">
+    <?php
+        require "main/footer.php";
+    ?>
+</footer>
 </html>

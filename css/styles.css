@@ -27,6 +27,9 @@
 body {
     background-color: #ECF0F1;
     font-family: 'titilli-Semi', 'Courier New', Courier, monospace;
+}
+
+.contenedor-body {
     width: 1250px;
     margin: 0 auto;
 }
