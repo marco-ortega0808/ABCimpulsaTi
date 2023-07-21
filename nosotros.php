@@ -9,7 +9,7 @@
     <title>Nosotros</title>
 </head>
 <body>
-    <div class="container-fluid contenedor-bod">
+    <div class="container-fluid contenedor-body">
         <?php
             require "main/header.php";
         ?>

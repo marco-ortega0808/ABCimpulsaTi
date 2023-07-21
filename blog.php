@@ -13,7 +13,12 @@
         <?php
             require "main/header.php";
         ?>
-
+        <h1>Blog</h1>
+        <div class="row">
+            <li class="col-3">Tema a tratar</li> 
+            <hr class="col-7" style="margin: auto 0;"> 
+            <a class="col-2">Ver más</a>
+        </div>
     </div>
 </body>
 <?php

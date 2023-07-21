@@ -18,7 +18,7 @@
                                     <a class="nav-link color_menu text-end" href="/nosotros.php">Nosotros</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link color_menu text-end" href="#">Blog</a>
+                                    <a class="nav-link color_menu text-end" href="/blog.php">Blog</a>
                                 </li>
                                 <li class="nav-item dropdown">
                                     <a class="nav-link dropdown-toggle color_menu text-end" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
