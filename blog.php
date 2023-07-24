@@ -26,7 +26,7 @@
                     <div class="card-body">
                         <h5 class="card-title">Nuestro proximo evento</h5>
                         <p class="card-text text-secondary">Esta tiene que ser una descripción sobre el evento o del blog.</p>
-                        <a href="/blog.php" class="btn color-btn">Ver más</a>
+                        <a href="/nota.php" class="btn color-btn">Ver más</a>
                     </div>
                 </div>
             </div>
