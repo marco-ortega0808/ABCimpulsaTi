@@ -6,7 +6,7 @@
         <?php
             require "main/head.php";
         ?>
-    <title>Document</title>
+    <title>Nombre del articulo</title>
 </head>
 <body>
     <div class="container-fluid contenedor-body">
