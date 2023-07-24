@@ -26,9 +26,6 @@
                     <div class="card-body">
                         <h5 class="card-title">Nuestro proximo evento</h5>
                         <p class="card-text text-secondary">Esta tiene que ser una descripción sobre el evento o del blog.</p>
-                        <!-- <p class="text-card">
-                            <small class="text-muted">1 disponibles</small>
-                        </p> -->
                         <a href="#" class="btn color-btn">Ver más</a>
                     </div>
                 </div>
@@ -39,9 +36,6 @@
                     <div class="card-body">
                         <h5 class="card-title">Nuestro proximo evento</h5>
                         <p class="card-text text-secondary">Esta tiene que ser una descripción sobre el evento o del blog.</p>
-                        <!-- <p class="text-card">
-                            <small class="text-muted">1 disponibles</small>
-                        </p> -->
                         <a href="#" class="btn color-btn">Ver más</a>
                     </div>
                 </div>
@@ -52,9 +46,6 @@
                     <div class="card-body">
                         <h5 class="card-title">Nuestro proximo evento</h5>
                         <p class="card-text text-secondary">Esta tiene que ser una descripción sobre el evento o del blog.</p>
-                        <!-- <p class="text-card">
-                            <small class="text-muted">1 disponibles</small>
-                        </p> -->
                         <a href="#" class="btn color-btn">Ver más</a>
                     </div>
                 </div>
