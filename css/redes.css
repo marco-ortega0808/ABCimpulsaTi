@@ -1,4 +1,5 @@
 .red{
+	width: 100px;
 	position: fixed;
 	top: 200px;
 	z-index: 100;
