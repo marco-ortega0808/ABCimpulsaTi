@@ -67,7 +67,7 @@
             <a class="col-2">Ver más</a>
         </div>
         
-        <div class="row">
+        <div class="row mt-3">
             <div class="col-4">
                 <div class="card">
                     <img src="/img/evento.jpeg" class="card-img-top" alt="...">
