@@ -22,7 +22,7 @@
         <div class="row">
             <div class="col-4">
                 <div class="card">
-                    <img src="/img/evento.jpeg" class="card-img-top" alt="...">
+                    <img src="/img/evento.jpeg" class="card-img-top img-fluid" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Nuestro proximo evento</h5>
                         <p class="card-text text-secondary">Esta tiene que ser una descripción sobre el evento o del blog.</p>
