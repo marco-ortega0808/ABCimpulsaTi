@@ -74,7 +74,7 @@
                         <p class="text-card">
                             <small class="text-muted">1 disponibles</small>
                         </p>
-                        <a href="#" class="btn color-btn">Ver más</a>
+                        <a href="/evento.php" class="btn color-btn">Ver más</a>
                     </div>
                 </div>
             </div>
