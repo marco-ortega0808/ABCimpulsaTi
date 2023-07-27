@@ -13,6 +13,33 @@
         <?php
             require "main/header.php";
         ?>
+        <div class="row">
+            <div class="col-9">
+                <h1>Nuestro proximo evento</h1>
+                <img src="/img/evento.jpeg" class="img-fluid" alt="">
+                <h3 class="mb-2 mt-2">¿Qué es Lorem Ipsum?</h3>
+                <hr style="width: 50%; border-top: 3px solid;"> 
+                <p class="text-secondary">Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con la creación de las hojas "Letraset", las cuales contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el cual incluye versiones de Lorem Ipsum.</p>
+                <div class="row">
+                    <div class="col-2">
+                        <div class="fecha_mes">Ene</div>
+                        <div class="fecha_num">12</div> 
+                    </div>
+                    <div class="col-1">
+                        <div class="ratio ratio-1x1">
+                            <img src="/img/zoom.png" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-3">
+                <h3>Contenido relacionado</h3>
+                <hr>
+                <ul>
+                    <li class="text-secondary"><a href="#"><p class="text-secondary"><strong>3 Aspectos clave de la Balanza de Comprobación</strong></p><p class="text-secondary    ">Leer más </p></a></li>
+                </ul>
+            </div>
+        </div>
     </div>
 </body>
 <?php

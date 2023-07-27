@@ -6,3 +6,17 @@ hr {
 .color-btn {
     background-color: #C74BCF;
 }
+.fecha_mes{
+    text-transform: uppercase;
+    color: rgb(244, 45, 59);
+    font-size: 13px;
+    line-height: 14px;
+    text-align: center;
+}
+
+.fecha_num {
+    font-size: 26px;
+    font-weight: bold;
+    line-height: 24px;
+    text-align: center;
+}
