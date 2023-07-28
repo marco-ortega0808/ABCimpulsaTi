@@ -21,10 +21,10 @@
                                     <a class="nav-link color_menu text-end" href="/blog.php">Blog</a>
                                 </li>
                                 <li class="nav-item dropdown">
-                                    <a class="nav-link dropdown-toggle color_menu text-end" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                    <a class="nav-link dropdown-toggle color_menu text-end" href="/productos.php" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                     Productos
                                     </a>
-                                    <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                    <ul class="dropdown-menu desple" aria-labelledby="navbarDropdownMenuLink">
                                         <li><a class="dropdown-item" href="#">Hadware</a></li>
                                         <li><a class="dropdown-item" href="#">Software action</a></li>
                                         <li><a class="dropdown-item" href="#">Contpaqi</a></li>
