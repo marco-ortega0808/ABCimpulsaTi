@@ -25,6 +25,7 @@
                                     Productos
                                     </a>
                                     <ul class="dropdown-menu desple" aria-labelledby="navbarDropdownMenuLink">
+                                        <li><a class="dropdown-item" href="/productos.php">Todos</a></li>
                                         <li><a class="dropdown-item" href="#">Hadware</a></li>
                                         <li><a class="dropdown-item" href="#">Software action</a></li>
                                         <li><a class="dropdown-item" href="#">Contpaqi</a></li>
