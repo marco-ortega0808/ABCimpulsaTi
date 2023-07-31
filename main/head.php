@@ -1,5 +1,6 @@
 
 <link rel="shortcut icon" href="/img/logo.ico" />
+<link rel="stylesheet" href="/css/productos.css" type="text/css">
     <link rel="stylesheet" href="./css/bootstrap.css" type="text/css">
     <link rel="stylesheet" href="./css/styles.css" type="text/css">
     <link rel="stylesheet" href="./css/responsivo.css" type="text/css">
