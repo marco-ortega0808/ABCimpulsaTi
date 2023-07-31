@@ -116,6 +116,9 @@
                     </div>
                 </div>
             </div>
+    <?php
+        require "main/redes.php";
+    ?>
         </div>
     </div>
 </body>

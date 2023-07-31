@@ -38,7 +38,7 @@
                             <div class="row">
                                 <div class="col-sm-12 col-lg-12 col-md-12 relleno mb-3">
                                     <h1 class="titulo-productos border-bottom border-3 border-secondary row-sm mt-1">Hardware</h1>
-                                                                        <div class="col-sm-12 col-lg-12 col-md-12 relleno mb-3">
+                                    <div class="col-sm-12 col-lg-12 col-md-12 relleno mb-3">
                                     <div class="card">
                                         <a href="produc-info.php?id=1">
                                             <div class="row g-0">
@@ -326,6 +326,9 @@
                             </div>
                         </div>
                     </div>
+            <?php
+                require "main/redes.php";
+            ?>
                 </div>
             </div>
         </section>

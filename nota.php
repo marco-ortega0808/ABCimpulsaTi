@@ -28,6 +28,9 @@
                     <li class="text-secondary"><a href="#"><p class="text-secondary"><strong>3 Aspectos clave de la Balanza de Comprobación</strong></p><p class="text-secondary    ">Leer más </p></a></li>
                 </ul>
             </div>
+            <?php
+                require "main/redes.php";
+            ?>
         </div>
     </div>
 </body>

@@ -29,6 +29,9 @@
             En ABC Impulsa Ti, entendemos que cada negocio es único y tiene requisitos individuales. Por eso, trabajamos en estrecha colaboración con nuestros clientes para comprender sus desafíos y objetivos comerciales. Nuestro equipo de profesionales altamente capacitados y con amplia experiencia en el campo de los sistemas Conp está dedicado a brindar un servicio personalizado y asesoramiento experto para garantizar que nuestros clientes obtengan el máximo beneficio de las soluciones que ofrecemos.
         </p>
     </div>
+    <?php
+        require "main/redes.php";
+    ?>
 </body>
     <?php
         require "main/scripts.php";
