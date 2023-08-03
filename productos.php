@@ -115,7 +115,7 @@
                                 <div class="row">
                                     <div class="col-6">
                                         <div class="card">
-                                            <a href="produc-info.php?prece=">
+                                            <a href="hardware.php">
                                                 <div class="row g-0">
                                                     <div class="col-md-4 text-center">
                                                         <img src="img/ram.jpg" class="img-fluid rounded-start" alt="GTX 1660">
