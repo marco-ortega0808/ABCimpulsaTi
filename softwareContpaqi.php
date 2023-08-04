@@ -13,6 +13,7 @@
         <?php
             require "main/header.php";
         ?>
+        <img src="/img/contabilidad_folleto.png" alt="">
         <section>
             <div class="container-fluid">
     
