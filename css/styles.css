@@ -29,6 +29,10 @@ body {
     font-family: 'titilli-Semi', 'Courier New', Courier, monospace;
 }
 
+h1, h2{
+    color: #004A81 !important;
+}
+
 .contenedor-body {
     width: 1250px;
     margin: 0 auto;
