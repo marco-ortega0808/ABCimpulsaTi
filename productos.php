@@ -83,7 +83,7 @@
                                     </div>
                                     <div class="col-sm-12 col-lg-4 col-md-4 relleno mb-3">
                                         <div class="card">
-                                            <a href="#">
+                                            <a href="/softwareContpaqi.php">
                                                 <div class="row g-0">
                                                     <div class="col-md-12 caja-img text-center">
                                                         <img src="img/contabilidad.png" class="size-img" alt="GTX 1660">
