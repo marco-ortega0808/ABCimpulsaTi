@@ -13,9 +13,11 @@
         <?php
             require "main/header.php";
         ?>
-        <img src="/img/contabilidad_folleto.png" alt="">
         <section>
             <div class="container-fluid">
+                <div class="row relleno-img">
+                    <img src="/img/contabilidad_folleto.png" alt="Contabilidad - Contpaqi" class="img-fluid">
+                </div>
     
                 <?php
                     require "main/redes.php";

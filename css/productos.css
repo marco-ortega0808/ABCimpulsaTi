@@ -17,3 +17,7 @@
     height: auto;
     padding: auto;
 }
+
+.relleno-img {
+    padding: 0px 100px;
+}
