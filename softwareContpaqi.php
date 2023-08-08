@@ -23,7 +23,7 @@
                     <img src="/img/por.png" alt="" class="img-fluid">
                 </div>
                 <div class="col-6 bg-azul">
-                    <h3 class="text-light text-center mt-3 mb-3">Venificios de Contabilidad -Contpaqi</h3>
+                    <h3 class="text-light text-center mt-3 mb-3">Beneficios de Contabilidad -Contpaqi</h3>
                     <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
                         <div class="carousel-indicators">
                             <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -32,17 +32,31 @@
                         </div>
                         <div class="carousel-inner">
                             <div class="carousel-item active text-light" style="height: 350px !important;">
-                                <ul class="text-center">
-                                    <li>Recibir los archivos XML de los CFDI Factura versión 4.0,</li>
-                                    <li>Además de CFDI Nóminas y CFDI Pagos</li>
-                                    <li>visualizando cada tipo de comprobante en una pestaña especial en el ADD.</li>
-                                </ul>
+                                <div class="text-center">
+                                    <img src="/img/icon/estampilla.png" style="width: 150px;" class="mb-3" alt="">
+                                    <h3>Cumplimiento Fiscal</h3>
+                                    <p>
+                                        Estos programas a menudo están actualizados con las leyes fiscales vigentes, lo que facilita la presentación de declaraciones fiscales precisas y oportunas.
+                                    </p>
+                                </div>
                             </div>
-                            <div class="carousel-item" style="height: 350px !important;">
-                                <img src="..." class="d-block w-100" alt="...">
+                            <div class="carousel-item text-light" style="height: 350px !important;">
+                                <div class="text-center">
+                                    <img src="/img/icon/analisis-de-mercado.png" style="width: 150px;" class="mb-3" alt="">
+                                    <h3>Análisis Financiero</h3>
+                                    <p>
+                                        Con las capacidades de generación de informes y la capacidad de rastrear diferentes aspectos de las finanzas de una empresa.
+                                    </p>
+                                </div>
                             </div>
-                            <div class="carousel-item" style="height: 350px !important;">
-                                <img src="..." class="d-block w-100" alt="...">
+                            <div class="carousel-item text-light" style="height: 350px !important;">
+                                <div class="text-center">
+                                    <img src="/img/icon/adaptacion.png" style="width: 150px;" class="mb-3" alt="">
+                                    <h3>Escalabilidad</h3>
+                                    <p>
+                                        Estos programas suelen ser escalables, lo que significa que pueden adaptarse a las necesidades cambiantes de una empresa a medida que crece.
+                                    </p>
+                                </div>
                             </div>
                         </div>
                         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
@@ -54,6 +68,9 @@
                             <span class="visually-hidden">Next</span>
                         </button>
                     </div>
+                </div>
+                <div class="row">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/PBf5tzobbkU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                 </div>
             </div>
             
