@@ -6,7 +6,7 @@
         <?php
             require "main/head.php";
         ?>
-    <title>Document</title>
+    <title>Contabilidad</title>
 </head>
 <body>
     <div class="container-fluid contenedor-body">
@@ -69,8 +69,16 @@
                         </button>
                     </div>
                 </div>
-                <div class="row">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/PBf5tzobbkU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                <div class="row mt-3 mb-3">
+                    <div class="col-6">
+                    <iframe width="100%" height="315" src="https://www.youtube.com/embed/PBf5tzobbkU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                    </div>
+                    <div class="col-6">
+                        <i class="fa-brands fa-whatsapp ico-size" style="color: #9a9996;"></i>
+                        <i class="fa-regular fa-envelope" style="color: #9a9996;"></i>
+                        <i class="fa-brands fa-whatsapp ico-size"></i>
+                    </div>
+                    
                 </div>
             </div>
             
