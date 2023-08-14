@@ -74,9 +74,15 @@
                     <iframe width="100%" height="315" src="https://www.youtube.com/embed/PBf5tzobbkU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                     </div>
                     <div class="col-6">
-                        <i class="fa-brands fa-whatsapp ico-size" style="color: #9a9996;"></i>
-                        <i class="fa-regular fa-envelope" style="color: #9a9996;"></i>
-                        <i class="fa-brands fa-whatsapp ico-size"></i>
+                        <div class="">
+                            <i class="fa-brands fa-whatsapp ico-size" style="color: #9a9996; font-size: 75px;"></i>
+                        </div>
+                        <div class="">
+                            <i class="fa-regular fa-envelope" style="color: #9a9996; font-size: 75px;"></i>
+                        </div>
+                        <div class="">
+                                <i class="fas fa-phone-alt" style="color: #9a9996; font-size: 75px;" ></i>
+                        </div>
                     </div>
                     
                 </div>
