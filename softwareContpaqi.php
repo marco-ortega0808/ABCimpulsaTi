@@ -74,14 +74,29 @@
                     <iframe width="100%" height="315" src="https://www.youtube.com/embed/PBf5tzobbkU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                     </div>
                     <div class="col-6">
-                        <div class="">
-                            <i class="fa-brands fa-whatsapp ico-size" style="color: #9a9996; font-size: 75px;"></i>
-                        </div>
-                        <div class="">
-                            <i class="fa-regular fa-envelope" style="color: #9a9996; font-size: 75px;"></i>
-                        </div>
-                        <div class="">
-                                <i class="fas fa-phone-alt" style="color: #9a9996; font-size: 75px;" ></i>
+                        <div class="h1 text-center">Contactanos</div>
+                        <div class="row">
+                            <div class="col-2">
+                                <div class="">
+                                    <i class="fa-brands fa-whatsapp ico-size hove-whats" style="color: #9a9996; font-size: 70px;"></i>
+                                </div>
+                                <div class="">
+                                    <i class="fa-regular fa-envelope hove-email" style="color: #9a9996; font-size: 70px;"></i>
+                                </div>
+                                <div class="">
+                                        <i class="fas fa-phone-alt hove-tel fa-rotate-90" style="color: #9a9996; font-size: 70px;" ></i>
+                                </div>
+                            </div>
+                            <div class="col-9">
+                                <form action="" method="post">
+                                    <label for="Nombre" class="me-2">Ingrese su nombre</label>
+                                    <input type="text" name="nombre" id="" class="mb-3">
+                                    <label for="Nombre" class="me-2">Ingrese su número</label>
+                                    <input type="text" name="numero" id="">
+                                    <button type="button" class="btn btn-success">Success</button>
+                                </form>
+                            </div>
+
                         </div>
                     </div>
                     
@@ -99,6 +114,7 @@
 <?php
     require "main/scripts.php";
 ?>
+<script src="/js/oculpar.js"></script>
 <footer class="footer mt-3">
     <?php
         require "main/footer.php";

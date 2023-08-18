@@ -33,3 +33,18 @@
 .ico-size {
     font-size: 80px;
 }
+
+.hove-whats:hover{
+    color: #25D366 !important;
+    cursor: pointer;
+}
+
+.hove-email:hover{
+    color: #f5e400 !important;
+    cursor: pointer;
+}
+
+.hove-tel:hover{
+    color: #000000 !important;
+    cursor: pointer;
+}
