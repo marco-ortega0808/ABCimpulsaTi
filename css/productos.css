@@ -45,6 +45,10 @@
 }
 
 .hove-tel:hover{
-    color: #000000 !important;
+    color: #0071b8 !important;
     cursor: pointer;
+}
+
+#email, #call {
+    display: none;
 }
