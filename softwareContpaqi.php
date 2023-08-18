@@ -78,13 +78,13 @@
                         <div class="row">
                             <div class="col-2">
                                 <div class="" onclick="mensaje()">
-                                    <i class="fa-brands fa-whatsapp ico-size hove-whats" style="color: #9a9996; font-size: 70px;"></i>
+                                    <i class="fa-brands fa-whatsapp ico-size hove-whats" id="color-sms"></i>
                                 </div>
                                 <div class="" onclick="correo()">
-                                    <i class="fa-regular fa-envelope hove-email" style="color: #9a9996; font-size: 70px;"></i>
+                                    <i class="fa-regular fa-envelope hove-email" id="color-email"></i>
                                 </div>
                                 <div class="" onclick="telefono()">
-                                        <i class="fas fa-phone-alt hove-tel fa-rotate-90" style="color: #9a9996; font-size: 70px;" ></i>
+                                        <i class="fas fa-phone-alt hove-tel fa-rotate-90" id="color-tel"></i>
                                 </div>
                             </div>
                             <div class="col-9">
@@ -95,23 +95,23 @@
                                     <label for="Nombre" class="me-2">Ingrese su número</label>
                                     <input type="text" name="numero" id="">
                                     <input type="text" name="producto" style="display: none ;" value="Más información sobre Contabilidad - Contpaqi">
-                                    <div class=""><button type="button" class="btn btn-success">Success</button></div>
+                                    <div class=""><button type="button" class="btn btn-success">Enviar</button></div>
                                 </form>
                                 <form action="" method="post" id="email">
                                     <div class="h3">Te enviaremos un correo</div>
                                     <label for="Nombre" class="me-2">Ingrese su nombre</label>
                                     <input type="text" name="nombre" id="" class="mb-3">
-                                    <label for="Nombre" class="me-2">Ingrese su número</label>
+                                    <label for="Nombre" class="me-2">Ingrese su correo electronico</label>
                                     <input type="text" name="numero" id="">
-                                    <div class=""><button type="button" class="btn btn-success">Success</button></div>
+                                    <div class=""><button type="button" class="btn btn-success">Enviar</button></div>
                                 </form>
                                 <form action="" method="post" id="call">
                                     <div class="h3">Te contactaremos por llamada</div>
                                     <label for="Nombre" class="me-2">Ingrese su nombre</label>
                                     <input type="text" name="nombre" id="" class="mb-3">
-                                    <label for="Nombre" class="me-2">Ingrese su número</label>
+                                    <label for="Nombre" class="me-2">Ingrese su número telefonico</label>
                                     <input type="text" name="numero" id="">
-                                    <div class=""><button type="button" class="btn btn-success">Success</button></div>
+                                    <div class=""><button type="button" class="btn btn-success">Enviar</button></div>
                                 </form>
                             </div>
 

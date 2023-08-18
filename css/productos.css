@@ -34,6 +34,22 @@
     font-size: 80px;
 }
 
+#color-sms, #color-email, #color-tel {
+    font-size: 70px;
+}
+
+#color-sms{
+    color: #9a9996; 
+}
+
+#color-email {
+    color: #9a9996;
+}
+
+#color-tel {
+    color: #9a9996;
+}
+
 .hove-whats:hover{
     color: #25D366 !important;
     cursor: pointer;
