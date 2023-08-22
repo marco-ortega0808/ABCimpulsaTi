@@ -32,7 +32,7 @@
                                     </ul>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link color_menu text-end" href="#">Contactanos</a>
+                                    <a class="nav-link color_menu text-end" href="/contacto.php">Contactanos</a>
                                 </li>
                             </ul>
                         </div>
