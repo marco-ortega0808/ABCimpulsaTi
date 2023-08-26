@@ -80,78 +80,7 @@
                                                     </div>
                                                     <div class="col-md-12 bg-conte">
                                                         <div class="card-body">
-                                                            <h3  class="card-title">Contabilidad - Contpaqi</h3   >
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            
-                            
-
-                        </div>
-                        <!-- ---------------------------------Hardware---------------------- -->
-                        <div class="row">
-                            <div class="col-sm-12 col-lg-12 col-md-12 relleno mb-3">
-                                <h1 class="titulo-productos border-bottom border-3 border-secondary mt-1">Hardware</h1>
-                                <div class="row">
-                                    <div class="col-6">
-                                        <div class="card">
-                                            <a href="hardware.php">
-                                                <div class="row g-0">
-                                                    <div class="col-md-4 text-center">
-                                                        <img src="img/ram.jpg" class="img-fluid rounded-start" alt="GTX 1660">
-                                                    </div>
-                                                    <div class="col-md-8">
-                                                        <div class="card-body">
-                                                            <h5 class="card-title">Pasta térmica</h5>
-                                                            <div class="card-body">
-                                                                <ul class="card-text text-dark">
-                                                                    <li>Gráficos discretos memoria del adaptador: 6 GB</li>
-                                                                    <li>Ancho de datos: 192 bit, Tipo de memoria: GDDR6</li>
-                                                                    <li>Frecuencia Boost: 1860 MHz</li>
-                                                                    <li>Tipo de interfaz: PCI Express x16 3.0</li>
-                                                                    <li>HDMI: 1x, DVI-I: 0x, DisplayPort: 1x</li>
-                                                                </ul>
-                                                                <div class="card-texto">
-                                                                    <h6 class="text-decoration-line-through">$8000</h6>
-                                                                    <label for="preci">$123</label>
-                                                                </div>
-                                                            </div>
-                                                            <p class="card-text"><small class="text-muted">10 disponibles</small></p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="col-6">
-                                        <div class="card">
-                                            <a href="produc-info.php?prece=">
-                                                <div class="row g-0">
-                                                    <div class="col-md-4 text-center">
-                                                        <img src="img/pasta.jpg" class="img-fluid rounded-start" alt="GTX 1660">
-                                                    </div>
-                                                    <div class="col-md-8">
-                                                        <div class="card-body">
-                                                            <h5 class="card-title">Pasta térmica</h5>
-                                                            <div class="card-body">
-                                                                <ul class="card-text text-dark">
-                                                                    <li>Gráficos discretos memoria del adaptador: 6 GB</li>
-                                                                    <li>Ancho de datos: 192 bit, Tipo de memoria: GDDR6</li>
-                                                                    <li>Frecuencia Boost: 1860 MHz</li>
-                                                                    <li>Tipo de interfaz: PCI Express x16 3.0</li>
-                                                                    <li>HDMI: 1x, DVI-I: 0x, DisplayPort: 1x</li>
-                                                                </ul>
-                                                                <div class="card-texto">
-                                                                    <h6 class="text-decoration-line-through">$8000</h6>
-                                                                    <label for="preci">$123</label>
-                                                                </div>
-                                                            </div>
-                                                            <p class="card-text"><small class="text-muted">10 disponibles</small></p>
+                                                            <h3  class="card-title">Contabilidad - Contpaqi</h3>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -161,6 +90,7 @@
                                 </div>
                             </div>
                         </div>
+                        
                         <!-- ------------------------ Servicios -------------------------- -->
                         <div class="row">
                             <div class="col-sm-12 col-lg-12 col-md-12 relleno mb-3">
