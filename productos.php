@@ -49,11 +49,6 @@
                                                     <div class="col-md-12 bg-conte">
                                                         <div class="card-body">
                                                             <h3  class="card-title">Nominas - Contpaqi</h3   >
-                                                            <div class="card-body">
-                                                                <p class="card-text">
-                                                                Simplifica y optimiza el proceso de gestión de nóminas para empresas de manera eficiente y segura.
-                                                                </p>
-                                                            </div>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -69,12 +64,7 @@
                                                     </div>
                                                     <div class="col-md-12 bg-conte">
                                                         <div class="card-body">
-                                                            <h3  class="card-title">Banco - Contpaqi</h3   >
-                                                            <div class="card-body">
-                                                                <p class="card-text">
-                                                                Simplifica y optimiza el proceso de gestión de nóminas para empresas de manera eficiente y segura.
-                                                                </p>
-                                                            </div>
+                                                            <h3  class="card-title">Bancos - Contpaqi</h3   >
                                                         </div>
                                                     </div>
                                                 </div>
@@ -90,12 +80,7 @@
                                                     </div>
                                                     <div class="col-md-12 bg-conte">
                                                         <div class="card-body">
-                                                            <h3  class="card-title">Conyabilidad - Contpaqi</h3   >
-                                                            <div class="card-body">
-                                                                <p class="card-text">
-                                                                Simplifica y optimiza el proceso de gestión de nóminas para empresas de manera eficiente y segura.
-                                                                </p>
-                                                            </div>
+                                                            <h3  class="card-title">Contabilidad - Contpaqi</h3   >
                                                         </div>
                                                     </div>
                                                 </div>
