@@ -127,6 +127,11 @@ p  {
 .carousel-item {
     height: 700px;
 }
+
+/* --------------------------Redes sociales------------- */
+.tiktok-embed{ 
+    margin: 0px !important;
+}
 /*--------------------Ventanas flotantes------------------*/
 .ventana_flotante {
     display: none;
