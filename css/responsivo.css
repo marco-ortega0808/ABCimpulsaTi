@@ -1,0 +1,11 @@
+@media (min-width: 1024px) { 
+    .contenedor-body {
+        width: 1250px;
+        margin: 0 auto;
+    }
+    
+    .cotenedor-menu {
+        width: 1250px;
+        margin: 0 auto;
+    }
+}
