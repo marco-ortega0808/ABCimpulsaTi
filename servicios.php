@@ -111,6 +111,9 @@
                 <div class="col-6">
                     <img src="img/7842919_3778872.svg" alt="">
                 </div>
+                <?php
+                    require "main/redes.php";
+                ?>
             </div>
         </section>
     </div>
