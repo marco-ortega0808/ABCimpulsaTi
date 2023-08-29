@@ -28,8 +28,7 @@
                                     Contpaqi
                                     </a>
                                     <ul class="dropdown-menu desple" aria-labelledby="navbarDropdownMenuLink">
-                                        <li><a class="dropdown-item" href="/softwareContpaqi.php">Contabilidad</a></li>
-                                        <li><a class="dropdown-item" href="#">Contpaqi</a></li>
+                                        <li><a class="dropdown-item" href="/softwareContpaqi.php">Contabilidad</a></li> 
                                     </ul>
                                 </li>
                                 <li class="nav-item">
