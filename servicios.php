@@ -29,7 +29,7 @@
                         <div class="col-4 text-center"> <img src="img/incidente.png" class="img-icono" alt=""></div>
                     </div>
                 </div>
-                <div class="row">
+                <div class="row mt-3 mb-3">
                     <div class="col-lg-4 col-sm-12 text-center">
                         <img src="img/operador.png" alt="" class="img-icono">
                         <h3 class="titulo-card">Asesorias</h3>
@@ -49,16 +49,16 @@
                         <p class="text-secondary">capacitado por especialistas.</p>
                     </div>
                     <div class="col-6 text-center"> 
-                        <img src="img/capacitacion.png" alt="" class="img-icono">
+                        <img src="img/software.png" alt="" class="img-icono">
                         <h3 class="titulo-card">Instalación de<br> los sistemas Contpaqi</h3>
                         <p style="margin-bottom: 0px;" class="text-secondary">Su personal sera</p>
                         <p class="text-secondary">capacitado por especialistas.</p>
                     </div>
                     <div class="col-6 text-center">
-                        <img src="img/capacitacion.png" alt="" class="img-icono">
-                        <h3 class="titulo-card">Capacitación</h3>
-                        <p style="margin-bottom: 0px;" class="text-secondary">Su personal sera</p>
-                        <p class="text-secondary">capacitado por especialistas.</p>
+                        <img src="img/carga-en-la-nube.png" alt="" class="img-icono">
+                        <h3 class="titulo-card">Recuperación o <br>Respaldos de información</h3>
+                        <p style="margin-bottom: 0px;" class="text-secondary">Realizaremos respaldos a su base</p>
+                        <p class="text-secondary"> de datos periodicamente para facil recuperación.</p>
                     </div>
                 </div>
                 <div class="col-6">
@@ -90,18 +90,14 @@
                             <input type="text" class="form-control" id="validationCustom03">
                         </div>
                         <div class="col-md-8">
-                            <label for="validationCustom04" class="form-label">Contpaqi</label>
+                            <label for="validationCustom04" class="form-label">Servicios</label>
                             <select class="form-select" id="validationCustom04" required>
-                            <option selected disabled value="">Software...</option>
-                                <option>Contabilidad</option>
-                                <option>Nómina</option>
-                                <option>Bancos</option>
-                                <option>Factaura Electrónica</option>
-                                <option>Comercial</option>
-                                <option>Contabiliza</option>
-                                <option>Personia</option>
-                                <option>Vende</option>
-                                <option>Decide</option>
+                            <option selected disabled value="">Opciones...</option>
+                                <option>Asesorias</option>
+                                <option>Soporte técnico</option>
+                                <option>Capacitación</option>
+                                <option>Instalación de los sistemas Contpaqi</option>
+                                <option>Recuperación o Respaldos de información</option>
                             </select>
                             <div class="invalid-feedback">
                                 Sleccione un Software.
