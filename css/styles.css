@@ -33,15 +33,6 @@ h1, h2{
     color: #004A81 !important;
 }
 
-.contenedor-body {
-    width: 1250px;
-    margin: 0 auto;
-}
-
-.cotenedor-menu {
-    width: 1250px;
-    margin: 0 auto;
-}
 
 .text-justify {
     text-align: justify !important;
