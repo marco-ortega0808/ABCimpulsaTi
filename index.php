@@ -27,13 +27,13 @@
                             </div>
                             <div class="carousel-inner">
                                 <div class="carousel-item active">
-                                    <img src="/img/Nuevo-reglas.jpg" class="d-block w-100" alt="...">
+                                    <img src="/img/Nuevo-reglas.jpg" class="img-fluid" alt="...">
                                 </div>
                             <div class="carousel-item">
-                                <img src="/img/invet.jpg" class="d-block w-100" alt="...">
+                                <img src="/img/invet.jpg" class="img-fluid" alt="...">
                             </div>
                                 <div class="carousel-item">
-                                    <img src="/img/portada.jpg" class="d-block w-100" alt="...">
+                                    <img src="/img/portada.jpg" class="img-fluid" alt="...">
                                 </div>
                             </div>
                             <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
@@ -45,9 +45,9 @@
                                 <span class="visually-hidden">Next</span>
                             </button>
                         </div>
-                        
+                        <!-- -------medidas de grid col, col-sm, col-md, col-lg, col-xm,------ -->
                         <div class="row">
-                            <div class="col-sm-4">
+                            <div class="col-sm-12 col-lg-4">
                                 <div class="card">
                                     <div class="card-body row">
                                         <h5 class="card-title titulo-card col-12">¿Problemas con tus facturas?</h5>
@@ -58,7 +58,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-sm-4">
+                            <div class="col-sm-12 col-lg-4">
                                 <div class="card">
                                     <div class="card-body row">
                                         <h5 class="card-title titulo-card col-12">¿Problemas con tu nomina?</h5>
@@ -69,7 +69,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-sm-4">
+                            <div class="col-sm-12 col-lg-4">
                                 <div class="card">
                                     <div class="card-body row">
                                         <h5 class="card-title titulo-card col-12">Tiene alguna perdida de información</h5>

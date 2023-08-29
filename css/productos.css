@@ -26,6 +26,10 @@
     background: #003462;
 }
 
+.img-icono{
+    width: 50%;
+}
+
 .tamano{
     height: 350px !important;
 }

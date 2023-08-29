@@ -6,18 +6,117 @@
         <?php
             require "main/head.php";
         ?>
-    <title>Document</title>
+    <title>Servicios</title>
 </head>
 <body>
     <div class="container-fluid contenedor-body">
         <?php
             require "main/header.php";
         ?>
-        <div class="row">
-            <section>
-
-            </section>
-        </div>
+        <section>
+            <div class="row">
+                <div class="col-6">
+                    <img src="/img/7421188_3641600.svg" alt="">
+                </div>
+                <div class="col-6">
+                    <h1>
+                        Asistencia completa a los sistemas completas
+                    </h1>
+                    <p class="text-secondary">Resolvemos cualquier incidencia con tus equipos de cómputo o software Contpaqi de manera presencial o vía remota.</p>
+                    <div class="row">
+                        <div class="col-4 text-center"> <img src="img/mantenimiento.png" class="img-icono" alt=""></div>
+                        <div class="col-4 text-center"> <img src="img/colaborativo.png" class="img-icono" alt=""></div>
+                        <div class="col-4 text-center"> <img src="img/incidente.png" class="img-icono" alt=""></div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-4 col-sm-12 text-center">
+                        <img src="img/operador.png" alt="" class="img-icono">
+                        <h3 class="titulo-card">Asesorias</h3>
+                        <p style="margin-bottom: 0px;" class="text-secondary">Resolveremos cualquier</p>
+                        <p class="text-secondary">duda o pregunta</p>
+                    </div>
+                    <div class="col-lg-4 col-sm-12 text-center">
+                        <img src="img/apoyo-tecnico.png" alt="" class="img-icono">
+                        <h3 class="titulo-card">Soporte técnico</h3>
+                        <p style="margin-bottom: 0px;" class="text-secondary">Solucionaremos cualquier</p>
+                        <p class="text-secondary">error o problema del sistema.</p>
+                    </div>
+                    <div class="col-lg-4 col-sm-12 text-center">
+                        <img src="img/capacitacion.png" alt="" class="img-icono">
+                        <h3 class="titulo-card">Capacitación</h3>
+                        <p style="margin-bottom: 0px;" class="text-secondary">Su personal sera</p>
+                        <p class="text-secondary">capacitado por especialistas.</p>
+                    </div>
+                    <div class="col-6 text-center"> 
+                        <img src="img/capacitacion.png" alt="" class="img-icono">
+                        <h3 class="titulo-card">Instalación de<br> los sistemas Contpaqi</h3>
+                        <p style="margin-bottom: 0px;" class="text-secondary">Su personal sera</p>
+                        <p class="text-secondary">capacitado por especialistas.</p>
+                    </div>
+                    <div class="col-6 text-center">
+                        <img src="img/capacitacion.png" alt="" class="img-icono">
+                        <h3 class="titulo-card">Capacitación</h3>
+                        <p style="margin-bottom: 0px;" class="text-secondary">Su personal sera</p>
+                        <p class="text-secondary">capacitado por especialistas.</p>
+                    </div>
+                </div>
+                <div class="col-6">
+                    <h1>Contacto</h1>
+                    <p class="text-secondary">Déjanos tus datos y un asesor se pondrá en contacto a la brevedad.</p>
+                    <form class="row g-3 needs-validation" novalidate>
+                        <div class="col-md-8">
+                            <label for="validationCustom01" class="form-label">Nombre <span class="requerido">*</span></label>
+                            <input type="text" class="form-control" id="validationCustom01" required>
+                            <div class="invalid-feedback">
+                                Sleccione un Software.
+                            </div>
+                            <div class="valid-feedback">
+                                Looks good!
+                            </div>
+                        </div>
+                        <div class="col-md-8">
+                            <label for="validationCustom02" class="form-label">Correo electrónico <span class="requerido">*</span></label>
+                            <input type="text" class="form-control" id="validationCustom02" required>
+                            <div class="invalid-feedback">
+                                Sleccione un Software.
+                            </div>
+                            <div class="valid-feedback">
+                                Looks good!
+                            </div>
+                        </div>
+                        <div class="col-md-8">
+                            <label for="validationCustom03" class="form-label">Teléfono</label>
+                            <input type="text" class="form-control" id="validationCustom03">
+                        </div>
+                        <div class="col-md-8">
+                            <label for="validationCustom04" class="form-label">Contpaqi</label>
+                            <select class="form-select" id="validationCustom04" required>
+                            <option selected disabled value="">Software...</option>
+                                <option>Contabilidad</option>
+                                <option>Nómina</option>
+                                <option>Bancos</option>
+                                <option>Factaura Electrónica</option>
+                                <option>Comercial</option>
+                                <option>Contabiliza</option>
+                                <option>Personia</option>
+                                <option>Vende</option>
+                                <option>Decide</option>
+                            </select>
+                            <div class="invalid-feedback">
+                                Sleccione un Software.
+                            </div>
+                        </div>
+                        <div class="col-12">
+                            <button class="btn btn-primary" type="submit">Enviar</button>
+                        </div>
+                    </form>
+                </div>
+                <div class="col-6">
+                    <img src="" alt="">
+                </div>
+            </div>
+        </section>
     </div>
 </body>
 <?php
