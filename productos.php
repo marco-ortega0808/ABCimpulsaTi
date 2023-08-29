@@ -99,25 +99,23 @@
                                     <a href="/servicios.php">
                                         <div class="row g-0">
                                             <div class="col-md-4 text-center">
-                                                <img src="img/mpreventivo.jpg" class="img-fluid rounded-start" alt="GTX 1660">
+                                                <img src="img/13184991_5138232.svg" class="img-fluid rounded-start" alt="GTX 1660">
                                             </div>
                                             <div class="col-md-8">
                                                 <div class="card-body">
-                                                    <h5 class="card-title">Capacitación</h5>
+                                                    <h5 class="card-title">Nuestros servicios</h5>
                                                     <div class="card-body">
                                                         <ul class="card-text text-dark">
-                                                            <li>Gráficos discretos memoria del adaptador: 6 GB</li>
-                                                            <li>Ancho de datos: 192 bit, Tipo de memoria: GDDR6</li>
-                                                            <li>Frecuencia Boost: 1860 MHz</li>
-                                                            <li>Tipo de interfaz: PCI Express x16 3.0</li>
-                                                            <li>HDMI: 1x, DVI-I: 0x, DisplayPort: 1x</li>
+                                                            <li>Instalación de los sistemas Contpaqi</li>
+                                                            <li>Asesorías</li>
+                                                            <li>Soporte Técnico</li>
+                                                            <li>Capacitación</li>
+                                                            <li>Recuperación o Respaldos de información</li>
                                                         </ul>
                                                         <div class="card-texto">
-                                                            <h6 class="text-decoration-line-through">$8000</h6>
-                                                            <label for="preci">$12</label>
                                                         </div>
                                                     </div>
-                                                    <p class="card-text"><small class="text-muted">¡Ya disponible!</small></p>
+                                                    <p class="card-text"><small class="text-muted">¡Solicita !</small></p>
                                                 </div>
                                             </div>
                                         </div>
