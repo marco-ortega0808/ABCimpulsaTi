@@ -109,7 +109,7 @@
                     </form>
                 </div>
                 <div class="col-6">
-                    <img src="" alt="">
+                    <img src="img/7842919_3778872.svg" alt="">
                 </div>
             </div>
         </section>
