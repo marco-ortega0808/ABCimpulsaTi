@@ -96,7 +96,7 @@
                             <div class="col-sm-12 col-lg-12 col-md-12 relleno mb-3">
                                 <h1 class="titulo-productos border-bottom border-3 border-secondary mt-1">Servicios</h1>
                                 <div class="card">
-                                    <a href="produc-info.php?prece=">
+                                    <a href="/servicios.php">
                                         <div class="row g-0">
                                             <div class="col-md-4 text-center">
                                                 <img src="img/mpreventivo.jpg" class="img-fluid rounded-start" alt="GTX 1660">
