@@ -4,17 +4,23 @@
     <div class="footer__top pt-80 pb-40">
         <div class="container-fluid">
             <div class="row">
-                <img id="asociado" class="col-4 " src="img/Socio-de-negocio_Autorizado.png" alt="">
-                <div class="col-lg-3 col-md-6 col-sm-6 mb-30">
-                    <div class="footer__widget pie-left">
-                        <p class="footer--text mb-20 font-bco">
-                        <img src="./img/logo-white.png" alt="" class="footer--logo mb-20" width="190">
-                        <!--GRUPO SLASH CORE S. A. de C. V.<br>-->
-                        Parque de Zoquiapan # 5,<br class="hidden-sm hidden-md hidden-lg"> El parque, C.P. 53398<br>
-Naucalpan de Juárez, Edo. de Méx. Mauricio Popoca<br class="hidden-sm hidden-md hidden-lg"><span class="font-cielo">Llámanos: <a href="tel://525553573257">55 5357 3257</a> </span><br>
-                        <a class="text-break" href="mailto:atencionaclientes@slash.com.mx">atencionaclientes@slash.com.mx</a>
-                        </p>
-                    </div>
+                <div class="col-lg-4 col-sm-12">
+                    <h3>Contactos ABC Impulsa Ti</h3>
+                    <p>Llámanos al: <a href="tel:+525523432865" class="font-cielo">55 23 43 28 65</a><br> o envianos un correo al <a href="mailto:ventasimpulsa369@gmail.com" class="font-cielo">ventasimpulsa369@gmail.com</a> </p>
+                    <img class="img-fluid" src="img/Socio-de-negocio_Autorizado.png" style="width: 50%;" alt="">
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12 text-center">
+                    <h3>Redes sociales</h3>
+                    <a style="color: #fff;" href="https://www.facebook.com/ABCImpulsaTi/"><i class="redes-footer footer-face fa-brands fa-facebook"></i></a>
+                    <a style="color: #fff;" href="https://www.instagram.com/abcimpulsati/"><i class="redes-footer footer-insta fa-brands fa-instagram"></i></a>
+                    <a style="color: #fff;" href="https://www.tiktok.com/@impulsati"><i class="redes-footer footer-tik fa-brands fa-tiktok"></i></a>
+                    <a style="color: #fff;" href="https://www.youtube.com/channel/UCfFY94dS15wL7U1zDLU3yMA"><i class="redes-footer footer-youtu fa-brands fa-youtube"></i></a>
+                    <a style="color: #fff;" href="https://www.linkedin.com/in/abc-impulsate-ti-bb856627b/"><i class="redes-footer footer-linke fa-brands fa-linkedin"></i></a>
+                </div>
+                <div class="col-lg-4 text-end">
+                    <img src="/img/Logotipo_Negativo.png" alt="Contpaqi - ABC Impulsa Ti"  width="190"> 
+                    <p></p>
+                    <img src="./img/logonegativo.png" alt="" width="190">
                 </div>
             </div>
         </div>
