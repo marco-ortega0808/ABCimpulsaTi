@@ -19,22 +19,19 @@
                 <div class="col-6">
                     <h1>Contacto</h1>
                     <p class="text-secondary">Déjanos tus datos y un asesor se pondrá en contacto a la brevedad.</p>
-                    <form class="row g-3 needs-validation" novalidate>
+                    <form class="row g-3 needs-validation" action="notificacion.php" method="post" novalidate>
                         <div class="col-md-8">
                             <label for="validationCustom01" class="form-label">Nombre <span class="requerido">*</span></label>
-                            <input type="text" class="form-control" id="validationCustom01" required>
-                            <div class="invalid-feedback">
-                                Sleccione un Software.
-                            </div>
+                            <input type="text" class="form-control" name="nombre" id="validationCustom01" >
                             <div class="valid-feedback">
                                 Looks good!
                             </div>
                         </div>
                         <div class="col-md-8">
                             <label for="validationCustom02" class="form-label">Correo electrónico <span class="requerido">*</span></label>
-                            <input type="text" class="form-control" id="validationCustom02" required>
+                            <input type="text" class="form-control" name="correo" id="validationCustom02" required>
                             <div class="invalid-feedback">
-                                Sleccione un Software.
+                                Agrege correo
                             </div>
                             <div class="valid-feedback">
                                 Looks good!
@@ -42,11 +39,11 @@
                         </div>
                         <div class="col-md-8">
                             <label for="validationCustom03" class="form-label">Teléfono</label>
-                            <input type="text" class="form-control" id="validationCustom03">
+                            <input type="text" class="form-control" name="tel" id="validationCustom03">
                         </div>
                         <div class="col-md-8">
                             <label for="validationCustom04" class="form-label">Contpaqi</label>
-                            <select class="form-select" id="validationCustom04" required>
+                            <select class="form-select" name="contpaqi" id="validationCustom04" required>
                             <option selected disabled value="">Software...</option>
                                 <option>Contabilidad</option>
                                 <option>Nómina</option>
@@ -59,11 +56,11 @@
                                 <option>Decide</option>
                             </select>
                             <div class="invalid-feedback">
-                                Sleccione un Software.
+                                Seleccione un Software.
                             </div>
                         </div>
                         <div class="col-12">
-                            <button class="btn btn-primary" type="submit">Enviar</button>
+                            <button class="btn btn-primary" name="info" type="submit">Enviar</button>
                         </div>
                     </form>
                 </div>
